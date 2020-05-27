@@ -1,0 +1,36 @@
+ .container {
+    width: 90%;
+}
+
+
+
+.footer .alert {
+    text-align: center;
+    line-height: 35px;
+}
+
+.footer .alert img {
+    margin-top: -3px;
+    margin-right: 5px;
+}
+
+h1 {
+    margin-top: 5px;
+    margin-bottom: 2px;
+}
+
+.html5 {
+    width: 64px;
+    height: 64px;
+    display: block;
+    float: left;
+    margin-right: 10px;
+}
+
+.html5 span {
+    display: none;
+}
+
+h1 strong {
+    color: #FF4444;
+}
